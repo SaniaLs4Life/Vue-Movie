@@ -13,7 +13,7 @@ export default {
 
 <style>
 #app {
-  font-family: 'Comfortaa';
+  font-family: 'Comfortaa', cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;

@@ -97,6 +97,7 @@ export default {
     .details {
         color:#FFF;
         text-shadow: 2px 2px #000;
+        margin-top:15px;
     }   
     .cast-avatar {
         width:50px;

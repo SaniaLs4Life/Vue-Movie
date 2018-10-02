@@ -24,8 +24,7 @@ export default {
         width: 100%;
     }
     img {
-        border-radius:10px;
-        width:350px;
+        width:100%;
         height:600px;
     }
 </style>
